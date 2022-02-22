@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #01203A;
+}
+
+.tradeimg{
+    position: absolute;
+    top: 18px;
+    left: 60px;
+}
+
+.flashtrade{
+    display: inline-block;
+    margin-left: 125px;
+    color: white;
+}
+
+ul{
+    margin: 0px;
+    float: right;
+    margin: 30px;
+}
+
+ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+ul li a:hover{
+    color: silver;
+}
+
+.fa-facebook-f:hover{
+    color: blue;
+}
+
+.fa-twitter:hover{
+    color: cyan;
+}
+
+.maincontent{
+    margin: 0px;
+    margin-top: 130px;
+    margin-left: 15%;
+    width: 40%;
+    height: 310px;
+}
+
+.maintext{
+    color: white;
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+
+.paragraph{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
+
+.mainimg{
+    width: 40%;
+    position: absolute;
+    left: 760px;
+    top: 130px;
+    
+}
